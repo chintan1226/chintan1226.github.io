@@ -32,13 +32,13 @@ html, html a, body {
 
 body {
   position: relative;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 p {
   font-size: 15px;
   font-weight: 400;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #1a1b1f;
   line-height: 1.4;
   margin-bottom: 15px;
@@ -49,12 +49,12 @@ li,
 li a {
   font-size: 16px;
   font-weight: 500;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #515769;
 }
 
 a {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81848f;
   outline: 0;
 }
@@ -69,7 +69,7 @@ a:focus, a:hover, a:active {
   position: relative;
   font-size: 13px;
   font-weight: 600;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
 }
 
@@ -86,7 +86,7 @@ a:focus, a:hover, a:active {
 span {
   font-size: 14px;
   font-weight: 400;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #bfc1c7;
 }
 
@@ -687,7 +687,7 @@ fieldset[disabled] .btn-theme {
   display: block;
   font-size: 13px;
   font-weight: 600;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #fff;
   text-transform: uppercase;
   line-height: 55px;
