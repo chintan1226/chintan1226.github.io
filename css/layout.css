@@ -515,6 +515,13 @@ fieldset[disabled] .btn-theme {
 }
 
 /*------------------------------------------------------------------
+  	[Resume]
+------------------------------------------------------------------*/
+.rounded-edges{
+  border-radius: 8px;
+}
+
+/*------------------------------------------------------------------
   	[Footer]
 ------------------------------------------------------------------*/
 .footer .footer-logo {
@@ -834,6 +841,8 @@ fieldset[disabled] .btn-theme {
   }
 }
 
+
+
 /*--------------------------------------------------
     [Back To Top Theme Button]
 ----------------------------------------------------*/
@@ -853,7 +862,7 @@ fieldset[disabled] .btn-theme {
   letter-spacing: 1px;
   text-transform: uppercase;
   background: #515769;
-  border-radius: 3px;
+  border-radius: 10%;
   visibility: hidden;
   opacity: 0;
   padding: 5px;
